@@ -1,2 +1,2 @@
 # DesignPatterns
-# Exercising design patterns by small examples
+Exercising design patterns with small examples
